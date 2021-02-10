@@ -1,4 +1,4 @@
-# Bienvenido al curso de Githubb para programadores
+# Bienvenido al curso de Github para programadores
 
 github para programadores
 
